@@ -40,8 +40,7 @@ tidyverse · caret · factoextra · randomForest · Rtsne · uwot · gridExtra �
 
 ## Autoría
 
-Trabajo grupal — Máster en Bioinformática (UNIR):
-Samuel Salazar Diaz, Samuel David Espitia Contreras, Luisa Ospina Londoño, Miller Esneyder Vargas Santiago.
+Samuel David Espitia Contrera.
 
 ## Licencia
 
